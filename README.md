@@ -34,6 +34,11 @@ Analog instrument with 270 degree span.
 
 Rotary knob panel with digital display.
 
+### DualRotaryKnob
+<img width="200" height="250" alt="image" src="https://github.com/user-attachments/assets/5c2baf3f-42b0-4c7d-a287-14a04935509d" />
+
+Dual rotary knob panel with digital display.
+
 ### AnalogSlider
 <img width="109" height="319" alt="image" src="https://github.com/user-attachments/assets/ef74e033-0eb6-4a52-b958-f374ed0f3ca3" />
 
