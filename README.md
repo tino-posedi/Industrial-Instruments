@@ -49,6 +49,11 @@ Analog slider with digital display.
 
 Vertical meter with digital display.
 
+### HorizontalMeter
+<img width="320" height="109" alt="image" src="https://github.com/user-attachments/assets/cea6b19a-8b79-4012-b7be-153988e99467" />
+
+Horizontal meter with adjustable scale.
+
 ### LEDSlider
 <img width="37" height="289" alt="image" src="https://github.com/user-attachments/assets/79cad9f0-6863-40d5-b6fe-d0060d8b8a5c" />
 
