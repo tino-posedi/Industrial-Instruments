@@ -2,9 +2,9 @@
 
 ## Features
 
--   Industrial HMI/SCADA-style components
--   User-configurable scales, ticks, units, and zones
--   Analog gauges, sliders, rotary knobs, and LED-style indicators
+-   Industrial HMI/SCADA style components
+-   User configurable scales, ticks, units, and zones
+-   Analog gauges, sliders, rotary knobs, and LED style indicators
 
 ## Installation
 
